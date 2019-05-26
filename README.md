@@ -55,9 +55,9 @@
 ***
 ##### ER-диаграмма
 ***
-[Диаграмма 2](https://erdplus.com/#/edit-diagram/885020)
+[Диаграмма 3](https://www.draw.io/#G1i7AyJvtEKhUEnhlH6mlSFUw90_yXq0iT)
 ***
 ##### Подробная диаграмма
 ***
-[Диаграмма 3](https://my.vertabelo.com/public-model-view/oV00MW0WqAYw0zR4oPMDGe2s0vWRqc2bhvxv08JnWdaL9tpUw7qOqSH3W96b5TUx?x=-642&y=513&zoom=0.1571)
+[Диаграмма 4](https://my.vertabelo.com/public-model-view/oV00MW0WqAYw0zR4oPMDGe2s0vWRqc2bhvxv08JnWdaL9tpUw7qOqSH3W96b5TUx?x=-642&y=513&zoom=0.1571)
 # Subd
