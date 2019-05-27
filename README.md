@@ -59,5 +59,5 @@
 ***
 ##### Подробная диаграмма
 ***
-[Диаграмма 4](https://my.vertabelo.com/public-model-view/oV00MW0WqAYw0zR4oPMDGe2s0vWRqc2bhvxv08JnWdaL9tpUw7qOqSH3W96b5TUx?x=-642&y=513&zoom=0.1571)
+[Диаграмма 4](https://my.vertabelo.com/model/mL6yOxIdzLTabLrgyTeCR37x3gVW7UlX)
 # Subd
